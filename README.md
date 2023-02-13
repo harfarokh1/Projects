@@ -1,2 +1,2 @@
 # Projects
-Projects in c#, python, javascript
+Projects in c#, python, javascript and solidity
